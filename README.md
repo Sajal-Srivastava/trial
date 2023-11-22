@@ -1,3 +1,3 @@
 # trial
 this is my first git repository
-Author Sajal 
+Author Sajal Srivastava
